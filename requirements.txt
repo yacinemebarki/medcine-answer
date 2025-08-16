@@ -12,6 +12,7 @@ executing==2.2.0
 fastjsonschema==2.21.1
 Flask==3.1.1
 fonttools==4.59.1
+gunicorn==21.2.0
 import-ipynb==0.2
 ipython==8.37.0
 itsdangerous==2.2.0
@@ -52,5 +53,6 @@ typing_extensions==4.14.1
 tzdata==2025.2
 wcwidth==0.2.13
 Werkzeug==3.1.3
+
 
 
